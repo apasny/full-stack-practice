@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: movie-api-db
+      uri: mongodb://localhost:27017
+
+
